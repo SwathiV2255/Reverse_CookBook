@@ -1,25 +1,25 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Reverse_CookBook🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: HelloWorld
 
 
 ### Team Members
-- Team Lead: Swathi - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Mihitha Mathew - SCMS school of engg. and tech.
+- Member 2:  Sandriya Sebastian- SCMS school of engg. and tech.
+- Member 3: Swathi V - SCMS school of engg. and tech.
 
 ### Project Description
-[2-3 lines about what your project does]
+Instead of recipes, this app shows you what not to do, like "bake cookies at 1000' F for 3 hours."
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Doesn't really solve a practical problem- its purpose is t entertain and amuse by suggesting absurd, intentionally disastrous "cooking" advise.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Stress relief and humor.
 
 ## Technical Details
 ### Technologies/Components Used
