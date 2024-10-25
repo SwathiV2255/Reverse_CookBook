@@ -24,7 +24,7 @@ Stress relief and humor.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- React
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
